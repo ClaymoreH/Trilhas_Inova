@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+.material-symbols-outlined{
+    font-size: 27px;
+}
+.controller{
+    font-size: 56px; 
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Audiowide;
+    background-color: #010402;
+}
+
+main {
+    position: relative;
+}
+
+#canvas {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-bottom: 20px;
+}
+
+#credits {
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Audiowide;
+    font-size: 27px;
+    color: #FAF8F8;
+}
+
+#instructions {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Audiowide;
+    font-size: 20px;
+    color: #FEFBFB;
+}
