@@ -4,7 +4,7 @@ Este é um jogo Pong simples desenvolvido em JavaScript utilizando a biblioteca 
 
 ## Funcionalidades
 
-- Modo de um jogador (contra a IA) ou multiplayer (dois jogadores).
+- Modo de um jogador (contra CPU) ou multiplayer (dois jogadores).
 - Pontuação e placar para acompanhar o progresso dos jogadores.
 - Personalização do tema do jogo.
 - Pausa e reinício do jogo.
@@ -14,7 +14,7 @@ Este é um jogo Pong simples desenvolvido em JavaScript utilizando a biblioteca 
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Ou acesse: https://editor.p5js.org/ClaymoreH/full/PwlU_l7vB
-4. Clique na tela do jogo, escolha entre iniciar o jogo, configurar o tema ou acessar outras opções no menu principal.
+4. Clique na tela do jogo, escolha entre iniciar o jogo, configurar o tema ou acessar o multiplayer.
 
 ## Controles
 
